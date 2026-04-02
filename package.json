@@ -1,0 +1,22 @@
+{
+  "name": "kmap-solver",
+  "version": "1.0.0",
+  "description": "Karnaugh Map Solver - Web-based Boolean expression minimization tool",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -p 3000",
+    "dev": "npx live-server --port=3000"
+  },
+  "keywords": [
+    "kmap",
+    "karnaugh",
+    "boolean",
+    "quine-mccluskey",
+    "logic",
+    "digital",
+    "minimization"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
